@@ -18,6 +18,3 @@ This Python script helps you identify available IP addresses in a specified netw
 
    ```bash
    ./find_available_ips.py
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
